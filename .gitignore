@@ -66,4 +66,4 @@ typings/
 ###############
 
 # Photoshop Files
-.psd
+*.psd
