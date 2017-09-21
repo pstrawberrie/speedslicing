@@ -3,9 +3,18 @@ Slice Type: Classic
 Design Source: [Random clickbait site](http://www.bestpsdfreebies.com/freebie/travel-free-psd-template/)  
 
 #### Stack
-- Vanilla HTML
-- Vanilla LESS + Mixins -> CSS
-- jQuery
+- Vanilla HTML  
+- Vanilla LESS + Mixins -> CSS  
+- ~~jQuery~~
 
-#### Notes / Q&A
-- ya man
+#### Result
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **SLICE FAILED!**  
+**Completed:** 2 sections  
+**Max Combo:** ~650  
+
+#### Notes
+- Flexbox would be WAY quicker than custom floats
+- Even bootstrap would be quicker than custom floats!
+- So....no more custom floats!
+- ALSO! Hardware encoding for OBS >>>>>> Software encoding
+- Was fun! Can't wait for the next SPEED SLICE CHALLENGE BB!!
