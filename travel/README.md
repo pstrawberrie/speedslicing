@@ -3,7 +3,7 @@ Slice Type: Classic
 Design Source: [Random clickbait site](http://www.bestpsdfreebies.com/freebie/travel-free-psd-template/)  
 
 #### Result
-![#ff2222](https://placehold.it/15/f03c15/000000?text=+) **SLICE FAILED!**  
+![#ff2222](https://placehold.it/15/ff2222/000000?text=+) **SLICE FAILED!**  
 **Completed:** 2 sections  
 **Max Combo:** 1300  
 
